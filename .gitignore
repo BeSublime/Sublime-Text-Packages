@@ -1,0 +1,7 @@
+# Ignore everything...
+/*
+/*/
+
+# ...but allow keymap and settings files from User directory
+!/User
+/User/*.last-run
