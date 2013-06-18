@@ -5,3 +5,7 @@
 # ...but allow keymap and settings files from User directory
 !/User
 /User/*.last-run
+
+# Also allow README and LICENSE
+!/README.md
+!/LICENSE
