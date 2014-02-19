@@ -9,7 +9,7 @@ ReadMe is out of date. Apologies in advance if that's the case.)
 
 What's Included
 ---------------
-Settings:
+#### Settings:
 - Indent guides **off**
 - Font face set to **Monaco**
 - Font size set to **9**
@@ -23,7 +23,7 @@ Settings:
 
 _*Thanks to [Wes Bos](http://github.com/wesbos) for [these tips](http://wesbos.com/sublime-text-5-visual-tweaks/)_
 
-Packages:
+#### Packages:
 - [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)  
   with parser set to "github" in `User/MarkdownPreview.sublime-settings` _(because I <3 GFM)_
 - Language Bundles (Syntax Highlighting, etc.)
