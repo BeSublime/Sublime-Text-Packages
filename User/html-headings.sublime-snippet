@@ -1,0 +1,19 @@
+<snippet>
+  <tabTrigger>h1</tabTrigger>
+  <scope>text.html</scope>
+  <content><![CDATA[
+<h1>
+  $1
+</h1>
+]]></content>
+</snippet>
+
+<snippet>
+  <tabTrigger>h2</tabTrigger>
+  <scope>text.html</scope>
+  <content><![CDATA[
+<h2>
+  $1
+</h2>
+]]></content>
+</snippet>

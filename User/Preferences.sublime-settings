@@ -1,25 +1,15 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"draw_indent_guides": false,
+	"fade_fold_buttons": false,
 	"font_face": "Monaco",
 	"font_size": 9,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"ignored_words":
-	[
-		"Bionaire",
-		"Holmes",
-		"Holmes",
-		"aer1",
-		"aer1",
-		"aer1",
-		"aer1"
-	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"caret_style": "phase",
-	"highlight_line": true,
-	"fade_fold_buttons": false,
-	"bold_folder_labels": true
+	"translate_tabs_to_spaces": true
 }
